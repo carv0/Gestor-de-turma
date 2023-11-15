@@ -1,5 +1,3 @@
-# Alexandre Carvoeiro 12ºE
-# João Pereira 12ºE
 # Gestor de disciplina de uma turma
 
 # Listas e variáveis
@@ -82,4 +80,3 @@ for i in range(num_alunos):
     print(nomes[i],"teve", mediafinal[i])
 
 print("\n:)")
-# Obrigado :)
